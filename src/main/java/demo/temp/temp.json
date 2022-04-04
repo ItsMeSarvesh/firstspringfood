@@ -1,0 +1,11 @@
+{
+    "id" : 1,
+    "name":"savage",
+    "location":"mumbai",
+    "food" : {
+        "id": 6,
+        "name": "Bhel",
+        "taste": "Spicy",
+        "quantity": 2
+    }
+}
